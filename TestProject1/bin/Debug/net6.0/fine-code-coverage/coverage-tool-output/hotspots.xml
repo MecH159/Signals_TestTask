@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.Charting</Class>
+    <MethodName>.cctor()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>106</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.ChartValues&lt;T&gt;</Class>
+    <MethodName>Initialize(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>74</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.Charts.ChartCore</Class>
+    <MethodName>StackPoints(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>70</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.SeriesAlgorithms.LineAlgorithm</Class>
+    <MethodName>Update()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>48</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.Charts.ChartCore</Class>
+    <MethodName>CalculateComponentsAndMargin()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>44</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.SeriesAlgorithms.StackedAreaAlgorithm</Class>
+    <MethodName>Update()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>44</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts.Wpf</Assembly>
+    <Class>LiveCharts.Wpf.Gauge</Class>
+    <MethodName>Update()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>42</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts.Wpf</Assembly>
+    <Class>LiveCharts.Wpf.Points.HorizontalBezierPointView</Class>
+    <MethodName>DrawOrMove(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>42</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts.Wpf</Assembly>
+    <Class>LiveCharts.Wpf.Points.VerticalBezierPointView</Class>
+    <MethodName>DrawOrMove(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>42</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.Charts.ChartCore</Class>
+    <MethodName>Drag(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>38</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts.Wpf</Assembly>
+    <Class>LiveCharts.Wpf.AxisSection</Class>
+    <MethodName>DrawOrMove(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>38</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.Charts.CartesianChartCore</Class>
+    <MethodName>PrepareAxes()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>36</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.LogarithmicAxisCore</Class>
+    <MethodName>PrepareChart(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>34</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts.Wpf</Assembly>
+    <Class>LiveCharts.Wpf.AngularGauge</Class>
+    <MethodName>Draw()</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>34</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts.Wpf</Assembly>
+    <Class>LiveCharts.Wpf.Points.StepLinePointView</Class>
+    <MethodName>DrawOrMove(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>34</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.AxisCore</Class>
+    <MethodName>UpdateSeparators(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>32</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>LiveCharts</Assembly>
+    <Class>LiveCharts.Charts.ChartCore</Class>
+    <MethodName>ZoomIn(...)</MethodName>
+    <ShortName />
+    <Line></Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>32</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
